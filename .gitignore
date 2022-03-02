@@ -1,0 +1,10 @@
+no.use/
+.idea/
+.vscode/
+__pycache__/
+.DS_Store/
+output/*
+data/sensor_data
+data/stereo_images
+data/*.npy
+
